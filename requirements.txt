@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+Pillow
+opencv-python
+scikit-learn
+
+# Install required packages
+pip install streamlit opencv-python numpy
+
+# Run the application
+streamlit run lane_detection.py
+
